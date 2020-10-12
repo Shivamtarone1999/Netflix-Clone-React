@@ -1,5 +1,6 @@
-This is demo link -  https://shivamtarone1999.github.io/Netflix-Clone-React/
-Kindly do not spam it. 
+##This is demo link <br/>
+https://shivamtarone1999.github.io/Netflix-Clone-React/ <br/>
+Kindly do not spam it. <br/>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
